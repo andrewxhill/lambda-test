@@ -1,0 +1,20 @@
+{
+  "name": "simple-augmentation-index",
+  "version": "1.0.0",
+  "description": "uses precomputed index to find state intersection",
+  "main": "index.js",
+  "keywords": [
+    "lambda data augmentation"
+  ],
+  "author": "andrew hill",
+  "license": "MIT",
+  "bin": {},
+  "devDependencies": {
+    "fs": "*",
+    "turf-point": "^2.0.0",
+    "turf-polygon": "^1.0.2",
+    "turf-inside": "^1.0.2",
+    "turf-invariant": "^1.0.2",
+    "aws-sdk": "2.2.*"
+  }
+}

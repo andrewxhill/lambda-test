@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"geometry": {"type": "Polygon", "coordinates": [[[-73.760898, 40.661318], [-73.759106, 40.663674], [-73.747824, 40.658641], [-73.748581, 40.657587], [-73.759821, 40.659349], [-73.760898, 40.661318]]]}, "type": "Feature", "properties": {"cartodb_id": 42764}}]}
